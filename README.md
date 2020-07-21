@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=sajibcse68)
 
 <!--
 **sajibcse68/sajibcse68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
- 🎉 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=sajibcse68)
 
 Progressing... 🚀
