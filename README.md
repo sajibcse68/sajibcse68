@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- 🎉 Visitors: ![Visitor Count](https://profile-counter.glitch.me/sajibcse68/count.svg)
+ 🎉 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=sajibcse68)
 
 Progressing... 🚀
