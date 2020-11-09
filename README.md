@@ -8,6 +8,9 @@ Progressing... 🚀
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=sajibcse68&theme=dracula)
 
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sajibcse68&show_icons=true&theme=dark&locale=en" alt="sajibcse68" /></p>
+
 <!--
 **sajibcse68/sajibcse68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
