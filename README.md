@@ -16,10 +16,6 @@
 </p>
 
 <p align="center">
-  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=sajibcse68)
-</p>
-
-<p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=sajibcse68" alt="sajib khan" />
 </p>
 
@@ -31,13 +27,16 @@
 <br>
 <br>
 
-- 📫 How to reach me **sajibcse68@gmail.com**
-
 <a href="https://github.com/sajibcse68d/github-profile-trophy">
    <h2>🏆 Github Profile Trophy</h2>
 </a>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sajibcse68&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=100)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br>
+<br>
+
+- 📫 How to reach me **sajibcse68@gmail.com**
 
 
 <!--
