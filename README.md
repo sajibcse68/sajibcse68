@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/sajibkhan" target="blank">
     <img align="center" src="https://img.icons8.com/color/48/000000/linkedin-circled.png" alt="sajib khan" height="40" width="40" />
   </a>
-  <a href="https://www.linkedin.com/in/sajibkhan" target="blank">
+  <a href="https://stackoverflow.com/users/4133798/sajib-khan?tab=profile" target="blank">
     <img align="center" src="https://img.icons8.com/color/48/000000/stackoverflow.png" alt="sajib khan" height="40" width="40" />
   </a>
   <a href="https://twitter.com/sajibcse68" target="blank">
