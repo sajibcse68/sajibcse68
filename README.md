@@ -27,13 +27,67 @@
 <br>
 <br>
 
+<h2>My Top Tech Stacks</h2>
+<table>
+  <tr>
+    <td align="center">
+      <img alt="javascript" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+      <br>Javascript
+    </td>
+    <td align="center">
+      <img alt="react" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+      <br>React.js
+    </td>
+    <td align="center">
+      <img alt="Redux" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
+      <br>Redux
+    </td>
+    <td align="center">
+      <img alt="Nextjs" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg">
+      <br>Next.js
+    </td>
+    <td align="center">
+      <img alt="vue" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+      <br>Vue
+    </td>
+    <td align="center">
+      <img alt="bootstrap" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
+      <br>Bootstrap
+    </td>
+    <td align="center">
+      <img alt="sass" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+      <br>SASS
+    </td>
+    <td align="center">
+      <img alt="html5" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
+      <br>HTML5
+    </td>
+    <td align="center">
+      <img alt="git" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+      <br>Git
+    </td>
+    <td align="center">
+      <img alt="firebase" height=64px src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg">
+      <br>Firebase
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<h2>My Repos</h2>
+
+[![MyDailyLearn](https://github-readme-stats.vercel.app/api/pin/?username=sajibcse68&repo=MyDailyLearn&show_owner=true)](https://github.com/sajibcse68/MyDailyLearn)
+[![facebook-messenger-clone](https://github-readme-stats.vercel.app/api/pin/?username=sajibcse68&repo=facebook-messenger-clone&show_owner=true)](https://github.com/sajibcse68/facebook-messenger-clone)
+
+<br />
+
 <a href="https://github.com/sajibcse68d/github-profile-trophy">
    <h2>🏆 Github Profile Trophy</h2>
 </a>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sajibcse68&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=100)](https://github.com/ryo-ma/github-profile-trophy)
 
-<br>
 <br>
 
 - 📫 How to reach me **sajibcse68@gmail.com**
