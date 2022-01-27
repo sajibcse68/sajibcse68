@@ -63,12 +63,12 @@
       <br>HTML5
     </td>
     <td align="center">
-      <img alt="git" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-      <br>Git
+      <img alt="nodejs" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+      <br>Node.js
     </td>
     <td align="center">
-      <img alt="firebase" height=64px src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg">
-      <br>Firebase
+      <img alt="git" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+      <br>Git
     </td>
   </tr>
 </table>
