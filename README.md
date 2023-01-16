@@ -20,9 +20,9 @@
 </p>
 
 <div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=sajibcse68&count_private=true&include_all_commits=true&theme=highcontrast&bg_color=0,000000,130F40" />
+  <img height="170" align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sajibcse68&count_private=true&include_all_commits=true&theme=highcontrast&bg_color=0,000000,130F40" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajibcse68&layout=compact&theme=highcontrast&bg_color=0,000000,130F40&margin-w=200" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sajibcse68&layout=compact&theme=highcontrast&bg_color=0,000000,130F40&margin-w=200" />
 </div>
 <br>
 <br>
@@ -77,8 +77,8 @@
 
 <h2>My Repos</h2>
 
-[![MyDailyLearn](https://github-readme-stats.vercel.app/api/pin/?username=sajibcse68&repo=MyDailyLearn&show_owner=true)](https://github.com/sajibcse68/MyDailyLearn)
-[![facebook-messenger-clone](https://github-readme-stats.vercel.app/api/pin/?username=sajibcse68&repo=facebook-messenger-clone&show_owner=true)](https://github.com/sajibcse68/facebook-messenger-clone)
+[![MyDailyLearn](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sajibcse68&repo=MyDailyLearn&show_owner=true)](https://github.com/sajibcse68/MyDailyLearn)
+[![facebook-messenger-clone](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sajibcse68&repo=facebook-messenger-clone&show_owner=true)](https://github.com/sajibcse68/facebook-messenger-clone)
 
 <br />
 
