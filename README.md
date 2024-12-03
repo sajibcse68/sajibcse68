@@ -1,31 +1,17 @@
-<h2 align="center">Connect with me 🚀</h2>
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/sajibkhan" target="blank">
-    <img align="center" src="https://img.icons8.com/color/48/000000/linkedin-circled.png" alt="sajib khan" height="40" width="40" />
-  </a>
-  <a href="https://stackoverflow.com/users/4133798/sajib-khan?tab=profile" target="blank">
-    <img align="center" src="https://img.icons8.com/color/48/000000/stackoverflow.png" alt="sajib khan" height="40" width="40" />
-  </a>
-  <a href="https://twitter.com/sajibcse68" target="blank">
-    <img align="center" src="https://img.icons8.com/nolan/64/twitter.png" alt="sajib khan" height="40" width="40" />
-  </a>
-  <a href="https://www.facebook.com/sajibcse68" target="blank">
-    <img align="center" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" alt="sajib khan" height="40" width="40" />
-  </a>
+  <img style="border-radius:4px" src="https://visitor-badge.laobi.icu/badge?page_id=sajibcse68" alt="sajib khan" />
 </p>
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=sajibcse68" alt="sajib khan" />
+<p style="" align="center">
+  <img style="border-radius:20px;width:100%;height:450px" src="https://github.com/sajibcse68/sajibcse68/blob/master/tech-stacks.png?raw=true" alt="Tech Stacks" />
 </p>
 
-<div>
-  <img height="170" align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sajibcse68&count_private=true&include_all_commits=true&theme=highcontrast&bg_color=0,000000,130F40" />
-  
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sajibcse68&layout=compact&theme=highcontrast&bg_color=0,000000,130F40&margin-w=200" />
-</div>
-<br>
-<br>
+# Hi I'm Sajib Khan
+### 🚀 Frontend Architect | 10+ Years Experience 👨‍💻
+
+Passionate about transforming complex requirements into scalable web solutions. Expertise in JavaScript, React, TypeScript, Next.js, and state management with Redux and Vuex. Skilled in testing (Cypress, Jest), UI/UX design, and data visualization with D3.js.
+
+<br/>
 
 <h2>My Top Tech Stacks</h2>
 <table>
@@ -75,23 +61,32 @@
 
 <br/>
 
-<h2>My Repos</h2>
+<div>
+  <img height="170" align="left" style="margin-right:24px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sajibcse68&count_private=true&include_all_commits=true&theme=highcontrast&bg_color=0,000000,130F40" />
 
-[![MyDailyLearn](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sajibcse68&repo=MyDailyLearn&show_owner=true)](https://github.com/sajibcse68/MyDailyLearn)
-[![facebook-messenger-clone](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sajibcse68&repo=facebook-messenger-clone&show_owner=true)](https://github.com/sajibcse68/facebook-messenger-clone)
-
-<br />
-
-<a href="https://github.com/sajibcse68d/github-profile-trophy">
-   <h2>🏆 Github Profile Trophy</h2>
-</a>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sajibcse68&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=100)](https://github.com/ryo-ma/github-profile-trophy)
-
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sajibcse68&layout=compact&theme=highcontrast&bg_color=0,000000,130F40&margin-w=200" />
+</div>
 <br>
 
+- 🌏 [Check my website](https://sajibkhan.com)
 - 📫 How to reach me **sajibcse68@gmail.com**
 
+<h2 align="center">Connect with me 🤝</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sajibkhan" target="blank">
+    <img align="center" src="https://img.icons8.com/color/48/000000/linkedin-circled.png" alt="sajib khan" height="40" width="40" />
+  </a>
+  <a href="https://stackoverflow.com/users/4133798/sajib-khan?tab=profile" target="blank">
+    <img align="center" src="https://img.icons8.com/color/48/000000/stackoverflow.png" alt="sajib khan" height="40" width="40" />
+  </a>
+  <a href="https://twitter.com/sajibcse68" target="blank">
+    <img align="center" src="https://img.icons8.com/nolan/64/twitter.png" alt="sajib khan" height="40" width="40" />
+  </a>
+  <!-- <a href="https://www.facebook.com/sajibcse68" target="blank">
+    <img align="center" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" alt="sajib khan" height="40" width="40" />
+  </a> -->
+</p>
 
 <!--
 **sajibcse68/sajibcse68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
